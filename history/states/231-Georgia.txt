@@ -3,13 +3,8 @@ state={
 	name="STATE_231"
 
 	history={
-		owner = WLD
-		victory_points = {
-			1599 5 
-		}
-		victory_points = {
-			3653 3 
-		}
+		owner = ARM
+		add_core_of = ARM
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2

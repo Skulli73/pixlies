@@ -77,10 +77,10 @@ set_technology = {
 
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = fascism
 	last_election = "1932.11.27"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 set_popularities = {
@@ -129,13 +129,12 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Léon Degrelle"
+	name = "Waeo"
 	desc = "POLITICS_LEON_DEGRELLE_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
 	expire = "1965.1.1"
 	ideology = rexism
 	traits = {
-		#
+		unpopular_monarch
 	}
 }
 

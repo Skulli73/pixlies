@@ -11,7 +11,8 @@ state={
 	}
 
 	history={
-		owner = WLD
+		owner = AZR
+		add_core_of = AZR
 		buildings = {
 			infrastructure = 4
 		}

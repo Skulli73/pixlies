@@ -10,7 +10,8 @@ state= {
 	state_category = town
 
 	history= {
-		owner = WLD
+		owner = USB
+		add_core_of = USB
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
